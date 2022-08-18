@@ -1,0 +1,27 @@
+<% if (random) { %>
+    <div class="container text-center my-3">
+        <table class="table">
+            <h2><%= tittle %>  </h2>
+            <thead>
+                <tr>
+                    <th scope="col">Numero </th>
+                    <th scope="col">Cantidad de repeticiones </th>
+                </tr>
+            </thead>    
+            <div id="tabla">
+                <% for(const property in result) {  %>
+                    <tbody>
+                        <tr>
+                            <th scope="row">
+                                <div id="id"><%= property %></div>
+                            </th>
+                            <th scope="row">
+                                <div id="obj"><%= result[property] %></div>
+                            </th>
+                        </tr>
+                    </tbody>
+                <% } %>
+            </div>
+        </table>
+</div>
+<% } %>

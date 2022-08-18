@@ -1,0 +1,96 @@
+[2022-08-11T19:28:09.667] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18336
+[2022-08-11T19:54:40.902] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 2748
+[2022-08-11T19:55:02.661] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 17648
+[2022-08-11T19:55:27.238] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T19:55:30.345] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T19:55:31.912] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T19:58:27.370] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 14956
+[2022-08-11T19:58:43.245] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:03:03.898] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 4692
+[2022-08-11T20:03:14.774] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:04:34.000] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 12684
+[2022-08-11T20:04:34.211] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:05:26.475] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18676
+[2022-08-11T20:05:28.648] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:09:46.516] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18852
+[2022-08-11T20:11:44.163] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 13504
+[2022-08-11T20:28:49.608] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 8528
+[2022-08-11T20:28:49.878] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:29:01.285] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:48:06.691] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 7372
+[2022-08-11T20:48:24.152] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:48:33.433] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:48:54.902] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:50:12.758] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18836
+[2022-08-11T20:50:13.070] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:50:23.320] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:52:11.924] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 1684
+[2022-08-11T20:52:24.297] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 3372
+[2022-08-11T20:52:24.506] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:52:35.917] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:52:57.650] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 6568
+[2022-08-11T20:53:03.551] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 17564
+[2022-08-11T20:53:04.678] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:53:14.105] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:53:51.054] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 16256
+[2022-08-11T20:53:52.177] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:54:01.518] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:55:21.607] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 17852
+[2022-08-11T20:56:29.681] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 13608
+[2022-08-11T20:56:30.066] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:56:41.210] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:57:54.759] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18404
+[2022-08-11T20:57:59.728] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:58:03.944] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:58:09.059] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T20:58:42.768] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18444
+[2022-08-11T20:58:56.009] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 14512
+[2022-08-11T21:01:25.852] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 17628
+[2022-08-11T21:01:26.932] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T21:01:37.464] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T21:02:24.826] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 6976
+[2022-08-11T21:02:54.007] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 15000
+[2022-08-11T21:03:02.973] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T21:03:10.117] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T21:03:44.928] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 16268
+[2022-08-11T21:04:07.427] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 19196
+[2022-08-11T21:04:07.655] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T21:04:20.224] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-11T21:05:20.658] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18856
+[2022-08-11T21:06:02.090] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 11160
+[2022-08-11T21:07:56.308] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 13852
+[2022-08-11T21:08:23.459] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 18832
+[2022-08-17T10:16:07.874] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 15716
+[2022-08-17T10:16:23.719] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:16:23.792] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:16:24.063] [INFO] info - Log Info:  /favicon.ico
+[2022-08-17T10:16:27.538] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:16:27.612] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:18:38.938] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 14128
+[2022-08-17T10:18:46.023] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:21:22.981] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 5208
+[2022-08-17T10:22:04.635] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 2912
+[2022-08-17T10:23:16.006] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 1188
+[2022-08-17T10:23:16.262] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:26:38.904] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 14852
+[2022-08-17T10:26:49.685] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:27:00.632] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:28:33.535] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 13724
+[2022-08-17T10:28:36.045] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:28:43.292] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:29:54.050] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 10964
+[2022-08-17T10:29:54.456] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T10:29:57.310] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:33:06.661] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 6120
+[2022-08-17T20:33:07.174] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:33:09.170] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:33:15.647] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:37:35.551] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 16272
+[2022-08-17T20:37:47.047] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:37:50.068] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:46:25.260] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 5220
+[2022-08-17T20:46:25.727] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:46:36.284] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:58:48.169] [INFO] info - Servidor en Puerto 8080 - PID WORKER: 12392
+[2022-08-17T20:59:04.367] [INFO] info - Log Info:  /socket.io/socket.io.js
+[2022-08-17T20:59:07.242] [INFO] info - Log Info:  /socket.io/socket.io.js
